@@ -90,9 +90,9 @@ header a:focus {
 .hero {
   height: 320px;
   padding: 24px;
-  background-image: url(../images/LulaL.jpg);
+  background-image: url(../images/couto.jpg);
   background-size: cover;
-  background-position: center 25%;
+  background-position: center;
   display: flex;
   flex-direction: column;
   justify-content: flex-end;
