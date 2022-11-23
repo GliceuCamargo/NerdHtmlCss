@@ -21,9 +21,6 @@ a {
 }
 
 h2 {
-  margin-bottom: 32px;
-  padding-left: 8px;
-  border-left: 4px solid #f13239;
 }
 
 .container {
@@ -83,7 +80,7 @@ header a {
 
 header a:hover,
 header a:focus {
-  color: #fF3239;
+  color: #ff3239;
   border-bottom: 1px solid #f13239;
 }
 
@@ -136,6 +133,9 @@ header a:focus {
 
 .gallery h2 {
   color: #111111;
+  margin-bottom: 32px;
+  padding-left: 8px;
+  border-left: 4px solid #f13239;
 }
 
 .gallery-row {
