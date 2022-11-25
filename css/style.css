@@ -20,9 +20,6 @@ a {
   transition: color 0.2s;
 }
 
-h2 {
-}
-
 .container {
   max-width: 1200px;
   margin: 0 auto;
@@ -50,6 +47,9 @@ h2 {
 
 header {
   padding: 8px 16px;
+  position: fixed;
+  top: 0;
+  width: 100%;
 }
 
 header .container {
@@ -94,6 +94,8 @@ header a:focus {
   flex-direction: column;
   justify-content: flex-end;
   align-items: center;
+  margin-top: 130px;
+  background-attachment: fixed;
 }
 
 .hero h1 {
